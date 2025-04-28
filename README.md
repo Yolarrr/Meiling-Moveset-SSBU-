@@ -1,5 +1,6 @@
-#### A modified version of [WuBoy's skyline-rs-template](https://github.com/WuBoytH/skyline-rs-template) to better fit my personal needs. 
+# Hong Meiling Moveset
+Source code for my Meiling moveset! (it's not that bad i swear)
 
-Clone SL1 Template: `git clone https://github.com/LilyLavender/lily-srs-template`
+Link to the mod: https://gamebanana.com/mods/583913
 
-Clone SL2 Template: `git clone https://github.com/LilyLavender/lily-srs-template -b sl2`
+Please DM me on discord if you have any questions or anything (username is yolarr)
